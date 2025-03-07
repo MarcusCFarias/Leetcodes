@@ -18,7 +18,7 @@
         }
         public static int[] GetConcatenation_FirstAttempt(int[] nums)
         {
-            int[] output = new int[nums.Length * 2];
+            int[] output = new int[nums.Length];
 
             for (int i = 0; i < nums.Length; i++)
             {
