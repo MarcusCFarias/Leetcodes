@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfOperationsTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildArrayFromPermutation", "BuildArrayFromPermutation\BuildArrayFromPermutation.csproj", "{F69262BE-B4C9-494A-B855-2BCBE2FB83C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionArrayAccordingToGivenPivot", "PartitionArrayAccordingToGivenPivot\PartitionArrayAccordingToGivenPivot.csproj", "{5051F53E-99D0-4659-82BC-AF8BC72DC96A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F69262BE-B4C9-494A-B855-2BCBE2FB83C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F69262BE-B4C9-494A-B855-2BCBE2FB83C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F69262BE-B4C9-494A-B855-2BCBE2FB83C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5051F53E-99D0-4659-82BC-AF8BC72DC96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5051F53E-99D0-4659-82BC-AF8BC72DC96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5051F53E-99D0-4659-82BC-AF8BC72DC96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5051F53E-99D0-4659-82BC-AF8BC72DC96A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

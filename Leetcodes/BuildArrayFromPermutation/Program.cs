@@ -7,7 +7,6 @@
             int[] input = { 5, 0, 1, 2, 3, 4 };
             int[] result = BuildArray(input);
 
-            Console.WriteLine(result);
             for (int i = 0; i < result.Length; i++)
                 Console.Write($"{result[i]},");
 
